@@ -1,0 +1,24 @@
+{
+  "name": "leaguespikes",
+  "version": "1.0.0",
+  "description": "Displaying power spikes in league of legends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bawjensen/LeagueOfSpikes.git"
+  },
+  "author": "bawjensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bawjensen/LeagueOfSpikes/issues"
+  },
+  "homepage": "https://github.com/bawjensen/LeagueOfSpikes",
+  "dependencies": {
+    "angular": "^1.4.5",
+    "angular-resource": "^1.4.5",
+    "angular-route": "^1.4.5"
+  }
+}
